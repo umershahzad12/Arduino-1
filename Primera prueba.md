@@ -1,6 +1,7 @@
 Primer error de Arduino :
 
 avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied
+![](https://raw.githubusercontent.com/Hanzla55/Arduino/main/eror%20de%20arduino.png)
 
 
 
