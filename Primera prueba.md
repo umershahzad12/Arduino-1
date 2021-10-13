@@ -19,3 +19,6 @@
 
 
 ## Error de Programacion
+
+
+## Primeres Circuitos
