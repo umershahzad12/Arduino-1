@@ -51,4 +51,14 @@ Tenemos 2 circuitos
 El voltaje de los 2 circuitos es 5V
 
 
+## Código mórse
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/800px-International_Morse_Code.svg.png)
+
+morse 1 hicimos
+
+morse 2
+
+Morse 3. Escribí mi nombre: 
+
+https://github.com/Hanzla55/Arduino/blob/main/morse3_HANZLA.ino
