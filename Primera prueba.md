@@ -57,6 +57,8 @@ El voltaje de los 2 circuitos es 5V
 
 morse 1 hicimos
 
+
+
 morse 2
 
 Morse 3. Escribí mi nombre: 
