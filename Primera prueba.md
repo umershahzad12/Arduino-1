@@ -88,6 +88,8 @@ morse 1 hicimos
 
 
 morse 2
+![](https://raw.githubusercontent.com/Hanzla55/Arduino/main/Screenshot%202021-10-19%20at%2009-20-32%20Hanzla55%20Arduino.png)
+
 
 Morse 3. Escribí mi nombre: 
 
