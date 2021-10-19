@@ -102,12 +102,3 @@ Morse 3 cuatro sentencias
 ### Com Programmar Arduino
 
 
-
-
-Conseguimos programmar  el Blink.ino
-
-1-Buscarlo en internet Arduino.CC
-2-Subirlo nosostros 
-3-Emazar en primers pruebas.md
-
-
