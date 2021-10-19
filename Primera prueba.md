@@ -18,10 +18,6 @@ El error se debe a que no puede acceder al puerto.
 
 
 
-
-
-
-
 # Circuitos eléctricos
 
 ## Error de programación
@@ -88,14 +84,30 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/800px-International_Morse_Code.svg.png)
 
-morse 1 hicimos
+morse 1  hicimos modificaciones en el codigo para cambiar el tiempo de gillo para eso 
+
 ![](https://raw.githubusercontent.com/Hanzla55/Arduino/main/Screenshot%202021-10-19%20at%2009-14-46%20Arduino%20Primera%20prueba%20md%20at%20main%20%C2%B7%20Hanzla55%20Arduino.png)
 
 
 
-morse 2
+morse 2  Que hace blink.ino
 
 
-Morse 3. Escribí mi nombre: 
+Morse 3 cuatro sentencias
+
+. Escribí mi nombre: 
 
 ![](https://raw.githubusercontent.com/Hanzla55/Arduino/main/Screenshot%202021-10-19%20at%2009-20-32%20Hanzla55%20Arduino.png)
+
+### Com Programmar Arduino
+
+
+
+
+Conseguimos programmar  el Blink.ino
+
+1-Buscarlo en internet Arduino.CC
+2-Subirlo nosostros 
+3-Emazar en primers pruebas.md
+
+
