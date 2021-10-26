@@ -9,12 +9,13 @@
 
 
 ## Processo de montaje
-materials necessario 
+Materials necessario 
 circuito
 foto del circuito
 
 
 ## Codigo
+ESto es codigo de arduino.
 
 int switchState = 0 ;
 
