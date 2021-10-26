@@ -28,3 +28,4 @@ foto video funciona o no
 
 
 ## Variaciones
+
