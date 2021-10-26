@@ -22,7 +22,9 @@ enlace el codigo utilizado
 
 
 ## Resultado
-foto video funciona o no
+Aqui hay fotos al final
+![](https://raw.githubusercontent.com/Hanzla55/Arduino/main/Interfaz%20DE%20nave.jpg)
+![](https://raw.githubusercontent.com/Hanzla55/Arduino/main/interfaz%20de%20nave.jpg)
 
 
 
