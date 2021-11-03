@@ -35,7 +35,12 @@ void loop() {
   Serial.println(estadoBotonPin3)
   }
   
+  
+  
+  
  ### Ejercicio 2
+ 
+ En este proyecto si pulsamos 2 botones encendire los 2 LEDS.Si pulsamos solo 1 button no funciona ningun LED.
  
  
  
