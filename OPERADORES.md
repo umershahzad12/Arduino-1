@@ -8,6 +8,8 @@ Es una funcion que pide un numero de pin y el valor HIGH O LOW. si valor es HIGH
 
 Vamos a conectar 2 botones y 2 leds
 
+Conectamos pin 2 y 3 con los botones, pin 4 y 5 con LEDS.
+
 Haremos diferentes programas con diferentes comportamientos. 
 Para poner un botón necesitamos la resistencia de 10.000 ohmnios estas son las que tienen cuerpo beige y una linea naranja.
 
