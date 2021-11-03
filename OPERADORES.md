@@ -4,7 +4,7 @@ Es una funcion que pide un numero de pin y el valor HIGH O LOW. si valor es HIGH
 
 
 
-# Ejercicio 1
+# Ejercicio 
 
 Vamos a conectar 2 botones y 2 leds
 
@@ -38,7 +38,7 @@ void loop() {
   
   
   
- ### Ejercicio 2
+ ### Ejercicio 1
  
  En este proyecto si pulsamos 2 botones encendire los 2 LEDS.Si pulsamos solo 1 button no funciona ningun LED.
  
@@ -72,6 +72,9 @@ else{
 }
 }// la llave del loop
 
+
+
+
 ### Ejercicio 2
 int estadoBotonPin2 = 0;
 int estadoBotonPin3 = 0;
@@ -101,6 +104,8 @@ else{
   digitalWrite(5, LOW);
 }
 }// la llave del loop
+
+
 
 
 ### Ejercicio 3
