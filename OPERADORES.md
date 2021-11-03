@@ -1,10 +1,10 @@
- ### Que es digitalwrite?
+ # Que es digitalwrite?
 
 Es una funcion que pide un numero de pin y el valor HIGH O LOW. si valor es HIGH la placa suministrapa 5v en ese pin. si valor es LOW la placa suministrara 0v en ese pin. si hay 5v si activara los circuitos si es 0v no se activaran.
 
 
 
-### Ejercicio
+# Ejercicio 1
 
 Vamos a conectar 2 botones y 2 leds
 
@@ -32,5 +32,8 @@ void loop() {
   Serial.print("Estado del botón 2: ");
   Serial.println(estadoBotonPin2);
   Serial.print("Estado del botón 3: ");
-  Serial.println(estadoBotonPin3); 
-}
+  Serial.println(estadoBotonPin3)
+  }
+  
+ 
+ 
