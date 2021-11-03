@@ -15,7 +15,7 @@ Para poner un botón necesitamos la resistencia de 10.000 ohmnios estas son las 
 
 Para poner un led necesitamos una resistencia de 220 ohmnios, las del cuerpo azul. Hay que tener en cuenta la prioridad del led. La pata más corta va hacia el GND y la larga hacia el voltaje.
 
-**BASE OPERADORES**
+## BASE OPERADORES
 
 ```int estadoBotonPin2 = 0;
 int estadoBotonPin3 = 0;
@@ -38,7 +38,7 @@ void loop() {
   
   
   
- ### Ejercicio 1
+  ### Ejercicio 1
  
  En este proyecto si pulsamos 2 botones encendire los 2 LEDS.Si pulsamos solo 1 button no funciona ningun LED.
  
