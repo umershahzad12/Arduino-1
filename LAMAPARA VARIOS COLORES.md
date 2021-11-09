@@ -66,7 +66,7 @@ Envez de Potenciometros
                                         SOFTWARE
 Valores Diferentes
 Aqui esta codigo de projecto que utilizado
-![](/home/usuario/snap/arduino/current/Arduino/Lampara_de_varios_colores/Lampara_de_varios_colores.ino)
+1[](https://github.com/Hanzla55/Arduino/blob/main/Lampara_de_varios_colores.ino)
 
 #### Projecto 2
 
