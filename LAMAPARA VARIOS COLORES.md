@@ -49,3 +49,15 @@ A un voltaje de 5v o  de 3'3v
   bod:  booleano y es verdadero o falso
   Char:  1 unico caracter
   float:  numeros decimals
+
+  VARIACIONES
+ 
+                                          HARDWARE     
+
+BOTONES:
+
+Envez de Potenciometros
+
+                                        SOFTWARE
+Valores Diferentes
+
