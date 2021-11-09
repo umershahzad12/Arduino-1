@@ -59,13 +59,14 @@ A un voltaje de 5v o  de 3'3v
                                           HARDWARE 
    
 
-BOTONES:
+BOTONES:https://raw.githubusercontent.com/St1v3n3223/Arduino/main/Captura%20de%20pantalla%20de%202021-11-09%2013-53-42.png
 
 Envez de Potenciometros
 
                                         SOFTWARE
 Valores Diferentes
-
+Aqui esta codigo de projecto que utilizado
+![](/home/usuario/snap/arduino/current/Arduino/Lampara_de_varios_colores/Lampara_de_varios_colores.ino)
 
 #### Projecto 2
 
