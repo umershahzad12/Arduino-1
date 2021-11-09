@@ -53,6 +53,7 @@ A un voltaje de 5v o  de 3'3v
  Hoy yo y stiven hecho un projecto que se llama lampara de varios colores
  
  Aqui esta foto de este projecto 
+ 
  ![](https://raw.githubusercontent.com/St1v3n3223/Arduino/main/Captura%20de%20pantalla%20de%202021-11-09%2012-05-19.png)
   VARIACIONES
  
