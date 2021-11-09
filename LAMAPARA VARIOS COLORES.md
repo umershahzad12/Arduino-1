@@ -70,6 +70,6 @@ Valores Diferentes
 #### Projecto 2
 
 Imagen de projecto
-![](https://raw.githubusercontent.com/St1v3n3223/Arduino/main/Captura%20de%20pantalla%20de%202021-11-09%2013-53-42.png9)
+![](https://raw.githubusercontent.com/St1v3n3223/Arduino/main/Captura%20de%20pantalla%20de%202021-11-09%2013-53-42.png)
 
 
