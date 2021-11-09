@@ -70,6 +70,14 @@ Aqui esta codigo de projecto que utilizado:
 
 [Código](https://github.com/Hanzla55/Arduino/blob/main/Lampara_de_varios_colores.ino)
 
+This is the part of the code that lights the LED:
+
+``` C++
+ analogWrite(redLEDPin,redValue);
+  analogWrite(greenLEDPin,greenValue);
+  analogWrite(blueLEDPin,blueValue);
+``` 
+
 #### Projecto 2
 
 Imagen de projecto
