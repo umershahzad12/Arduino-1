@@ -5,7 +5,9 @@
 ## Explain
 
 
-In the first project Me and Umer, we did a circuit in which if we put hand on the sensor it stops 
+In the first project Me and Umer,
+
+we did a circuit in which if we put hand on the sensor it stops 
 
 and if we take away hand from the sensor it starts working.
 
@@ -86,7 +88,13 @@ int pitch = map(sensorValue, sensorLow, sensorHigh, 50, 4000);
 ## SEGUNDO PROJECTO
 
 
-In the second project 
+In the second project we did a cicuit circuit
+
+in which we added a button but the button is not connected
+
+with software it works by hardware.
+
+So if we press button the circuit works but if we don't press it doesn't work
 
 
 ### IMAGEN
@@ -162,7 +170,7 @@ int pitch = map(sensorValue, sensorLow, sensorHigh, 50, 4000);
 
 
 ## TERCER PROJECTO
-
+IN the third project we did the same as second project but this time with the help  of software.
 
 
 ### IMAGEN
