@@ -35,7 +35,7 @@ El siguiente bloque de código es el programa en sí, el cual comienza con la fu
 Aquí se usa una variable llamada Valor_del_Sensor en donde se guarda la lectura del 
 sensor.
 
-´´´ C++
+``` C++
 
 const int sensorPin = A0;
 const float baselineTemp = 90.0;
@@ -99,4 +99,4 @@ void loop()
   delay(1); 
   
 }
-´´´
+```
