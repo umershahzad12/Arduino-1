@@ -16,7 +16,7 @@ foto del circuito
 
 ## Codigo
 ![Enlace al arduino.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjH_P3e5-fzAhXy7OAKHWeoBtIQFnoECAgQAQ&url=https%3A%2F%2Fwww.arduino.cc%2F&usg=AOvVaw0_8388xK8DUMwMCI1wAZ_C)
-
+``` C++
 int switchState = 0 ;
 
 void setup(){
@@ -54,7 +54,7 @@ switchState = digitalRead (2);
     delay (250);
   }
 }
-
+```
 
 
 
