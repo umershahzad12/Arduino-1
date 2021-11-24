@@ -20,6 +20,8 @@ El error se debe a que no puede acceder al puerto.
 
 # Circuitos eléctricos
 
+![](https://github.com/Hanzla55/Arduino/blob/main/circuito%20electrico%20codigo.png?raw=true)
+
 ## Error de programación
 
 El programa avrdude lanzó una excepción y detuvo el programa. Esto por un tema de permisos de usuario.
