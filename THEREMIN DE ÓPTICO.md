@@ -33,6 +33,8 @@ In the second project
 
 ### IMAGEN
 
+![](https://github.com/Hanzla55/Arduino/blob/main/therminal%202.jpg?raw=true)
+
 
 
 
