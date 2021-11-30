@@ -112,11 +112,3 @@ digitalWrite(4, HIGH);
 delay(1);
 }
 ```
-### IMAGENS
-
-
-![](https://github.com/Hanzla55/Arduino/blob/main/MEDIDOR%201.png?raw=true)
-
-
-
-![](https://github.com/Hanzla55/Arduino/blob/main/MEDIDOR%202%20.png?raw=true)
